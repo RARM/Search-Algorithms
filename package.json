@@ -1,0 +1,20 @@
+{
+  "name": "search-algorithms",
+  "version": "1.0.0",
+  "description": "Attempt to create a nice interface for demonstrating some search algorithms efficiency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RARM/Search-Algorithms.git"
+  },
+  "author": "Rodolfo Andrés Rivas Matta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RARM/Search-Algorithms/issues"
+  },
+  "homepage": "https://github.com/RARM/Search-Algorithms#readme",
+  "private": true
+}
