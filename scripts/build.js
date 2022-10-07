@@ -4,7 +4,7 @@ const { exec } = require("child_process");
 const { Console } = require("console");
 // const package = require("./../package.json");
 
-const em_command = "em++ -o ./out/script.js ./src/program.cpp -O3";
+const em_command = "em++ -o ./out/script.js ./src/program.cpp --bind";
 
 // console.log("The path for the C++ file: " + package.config.cpp_path);
 
